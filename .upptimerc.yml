@@ -6,7 +6,7 @@ sites:
     url: https://clawbber.ai
 
 status-website:
-  baseUrl: /status
+  cname: status.clawbber.ai
   name: Clawbber Status
   introTitle: "**Clawbber** status and uptime monitor"
   introMessage: This page shows real-time uptime data powered by [Upptime](https://github.com/upptime/upptime) and GitHub Actions.

@@ -4,7 +4,7 @@
     "url": "https://clawbber.ai",
     "icon": "https://icons.duckduckgo.com/ip3/clawbber.ai.ico",
     "slug": "clawbber",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 303,
     "timeYear": 308,
     "dailyMinutesDown": {
+      "2026-04-30": 0,
       "2026-03-21": 31
     }
   }
